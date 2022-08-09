@@ -1,26 +1,27 @@
 {
   "files": {
-    "main.css": "/aoperat_frontend_pub/static/css/main.a37fe080.chunk.css",
-    "main.js": "/aoperat_frontend_pub/static/js/main.7e8ef77a.chunk.js",
-    "main.js.map": "/aoperat_frontend_pub/static/js/main.7e8ef77a.chunk.js.map",
-    "runtime-main.js": "/aoperat_frontend_pub/static/js/runtime-main.769921d9.js",
-    "runtime-main.js.map": "/aoperat_frontend_pub/static/js/runtime-main.769921d9.js.map",
-    "static/css/2.1afe50f2.chunk.css": "/aoperat_frontend_pub/static/css/2.1afe50f2.chunk.css",
-    "static/js/2.69007887.chunk.js": "/aoperat_frontend_pub/static/js/2.69007887.chunk.js",
-    "static/js/2.69007887.chunk.js.map": "/aoperat_frontend_pub/static/js/2.69007887.chunk.js.map",
+    "main.css": "/aoperat_frontend_pub/static/css/main.8ecdac32.chunk.css",
+    "main.js": "/aoperat_frontend_pub/static/js/main.aba70604.chunk.js",
+    "main.js.map": "/aoperat_frontend_pub/static/js/main.aba70604.chunk.js.map",
+    "runtime-main.js": "/aoperat_frontend_pub/static/js/runtime-main.44796579.js",
+    "runtime-main.js.map": "/aoperat_frontend_pub/static/js/runtime-main.44796579.js.map",
+    "static/css/2.51751ba3.chunk.css": "/aoperat_frontend_pub/static/css/2.51751ba3.chunk.css",
+    "static/js/2.6173de61.chunk.js": "/aoperat_frontend_pub/static/js/2.6173de61.chunk.js",
+    "static/js/2.6173de61.chunk.js.map": "/aoperat_frontend_pub/static/js/2.6173de61.chunk.js.map",
     "index.html": "/aoperat_frontend_pub/index.html",
-    "static/css/2.1afe50f2.chunk.css.map": "/aoperat_frontend_pub/static/css/2.1afe50f2.chunk.css.map",
-    "static/css/main.a37fe080.chunk.css.map": "/aoperat_frontend_pub/static/css/main.a37fe080.chunk.css.map",
-    "static/js/2.69007887.chunk.js.LICENSE.txt": "/aoperat_frontend_pub/static/js/2.69007887.chunk.js.LICENSE.txt",
+    "static/css/2.51751ba3.chunk.css.map": "/aoperat_frontend_pub/static/css/2.51751ba3.chunk.css.map",
+    "static/css/main.8ecdac32.chunk.css.map": "/aoperat_frontend_pub/static/css/main.8ecdac32.chunk.css.map",
+    "static/js/2.6173de61.chunk.js.LICENSE.txt": "/aoperat_frontend_pub/static/js/2.6173de61.chunk.js.LICENSE.txt",
     "static/media/damir-bosnjak.efcaca50.jpg": "/aoperat_frontend_pub/static/media/damir-bosnjak.efcaca50.jpg",
-    "static/media/logo.2d27ead7.svg": "/aoperat_frontend_pub/static/media/logo.2d27ead7.svg",
+    "static/media/exclamation.5811aed9.svg": "/aoperat_frontend_pub/static/media/exclamation.5811aed9.svg",
+    "static/media/logo.09cfe32d.svg": "/aoperat_frontend_pub/static/media/logo.09cfe32d.svg",
     "static/media/paper-dashboard.scss?v=1.2.0": "/aoperat_frontend_pub/static/media/nucleo-icons.ec16bc4c.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.769921d9.js",
-    "static/css/2.1afe50f2.chunk.css",
-    "static/js/2.69007887.chunk.js",
-    "static/css/main.a37fe080.chunk.css",
-    "static/js/main.7e8ef77a.chunk.js"
+    "static/js/runtime-main.44796579.js",
+    "static/css/2.51751ba3.chunk.css",
+    "static/js/2.6173de61.chunk.js",
+    "static/css/main.8ecdac32.chunk.css",
+    "static/js/main.aba70604.chunk.js"
   ]
 }

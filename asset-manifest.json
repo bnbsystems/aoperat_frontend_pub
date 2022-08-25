@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/aoperat_frontend_pub/static/css/main.db5bc23c.chunk.css",
-    "main.js": "/aoperat_frontend_pub/static/js/main.52d5315f.chunk.js",
+    "main.js": "/aoperat_frontend_pub/static/js/main.bec36afe.chunk.js",
     "runtime-main.js": "/aoperat_frontend_pub/static/js/runtime-main.0eceaa2d.js",
     "static/css/2.1c7e0bbe.chunk.css": "/aoperat_frontend_pub/static/css/2.1c7e0bbe.chunk.css",
-    "static/js/2.84f7d8aa.chunk.js": "/aoperat_frontend_pub/static/js/2.84f7d8aa.chunk.js",
+    "static/js/2.86e10310.chunk.js": "/aoperat_frontend_pub/static/js/2.86e10310.chunk.js",
     "index.html": "/aoperat_frontend_pub/index.html",
-    "static/js/2.84f7d8aa.chunk.js.LICENSE.txt": "/aoperat_frontend_pub/static/js/2.84f7d8aa.chunk.js.LICENSE.txt",
+    "static/js/2.86e10310.chunk.js.LICENSE.txt": "/aoperat_frontend_pub/static/js/2.86e10310.chunk.js.LICENSE.txt",
     "static/media/damir-bosnjak.efcaca50.jpg": "/aoperat_frontend_pub/static/media/damir-bosnjak.efcaca50.jpg",
     "static/media/exclamation.56ace894.svg": "/aoperat_frontend_pub/static/media/exclamation.56ace894.svg",
     "static/media/logo.3f5181e4.svg": "/aoperat_frontend_pub/static/media/logo.3f5181e4.svg",
@@ -15,8 +15,8 @@
   "entrypoints": [
     "static/js/runtime-main.0eceaa2d.js",
     "static/css/2.1c7e0bbe.chunk.css",
-    "static/js/2.84f7d8aa.chunk.js",
+    "static/js/2.86e10310.chunk.js",
     "static/css/main.db5bc23c.chunk.css",
-    "static/js/main.52d5315f.chunk.js"
+    "static/js/main.bec36afe.chunk.js"
   ]
 }

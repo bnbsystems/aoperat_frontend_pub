@@ -1,27 +1,27 @@
 {
   "files": {
     "main.css": "/aoperat_frontend_pub/static/css/main.b312013d.chunk.css",
-    "main.js": "/aoperat_frontend_pub/static/js/main.cb706cb4.chunk.js",
-    "main.js.map": "/aoperat_frontend_pub/static/js/main.cb706cb4.chunk.js.map",
-    "runtime-main.js": "/aoperat_frontend_pub/static/js/runtime-main.c7376302.js",
-    "runtime-main.js.map": "/aoperat_frontend_pub/static/js/runtime-main.c7376302.js.map",
+    "main.js": "/aoperat_frontend_pub/static/js/main.52d5315f.chunk.js",
+    "main.js.map": "/aoperat_frontend_pub/static/js/main.52d5315f.chunk.js.map",
+    "runtime-main.js": "/aoperat_frontend_pub/static/js/runtime-main.0eceaa2d.js",
+    "runtime-main.js.map": "/aoperat_frontend_pub/static/js/runtime-main.0eceaa2d.js.map",
     "static/css/2.51751ba3.chunk.css": "/aoperat_frontend_pub/static/css/2.51751ba3.chunk.css",
-    "static/js/2.7ddb9ea6.chunk.js": "/aoperat_frontend_pub/static/js/2.7ddb9ea6.chunk.js",
-    "static/js/2.7ddb9ea6.chunk.js.map": "/aoperat_frontend_pub/static/js/2.7ddb9ea6.chunk.js.map",
+    "static/js/2.84f7d8aa.chunk.js": "/aoperat_frontend_pub/static/js/2.84f7d8aa.chunk.js",
+    "static/js/2.84f7d8aa.chunk.js.map": "/aoperat_frontend_pub/static/js/2.84f7d8aa.chunk.js.map",
     "index.html": "/aoperat_frontend_pub/index.html",
     "static/css/2.51751ba3.chunk.css.map": "/aoperat_frontend_pub/static/css/2.51751ba3.chunk.css.map",
     "static/css/main.b312013d.chunk.css.map": "/aoperat_frontend_pub/static/css/main.b312013d.chunk.css.map",
-    "static/js/2.7ddb9ea6.chunk.js.LICENSE.txt": "/aoperat_frontend_pub/static/js/2.7ddb9ea6.chunk.js.LICENSE.txt",
+    "static/js/2.84f7d8aa.chunk.js.LICENSE.txt": "/aoperat_frontend_pub/static/js/2.84f7d8aa.chunk.js.LICENSE.txt",
     "static/media/damir-bosnjak.efcaca50.jpg": "/aoperat_frontend_pub/static/media/damir-bosnjak.efcaca50.jpg",
     "static/media/exclamation.56ace894.svg": "/aoperat_frontend_pub/static/media/exclamation.56ace894.svg",
     "static/media/logo.3f5181e4.svg": "/aoperat_frontend_pub/static/media/logo.3f5181e4.svg",
     "static/media/paper-dashboard.scss?v=1.2.0": "/aoperat_frontend_pub/static/media/nucleo-icons.ec16bc4c.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.c7376302.js",
+    "static/js/runtime-main.0eceaa2d.js",
     "static/css/2.51751ba3.chunk.css",
-    "static/js/2.7ddb9ea6.chunk.js",
+    "static/js/2.84f7d8aa.chunk.js",
     "static/css/main.b312013d.chunk.css",
-    "static/js/main.cb706cb4.chunk.js"
+    "static/js/main.52d5315f.chunk.js"
   ]
 }

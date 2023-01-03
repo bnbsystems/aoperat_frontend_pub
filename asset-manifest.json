@@ -6,12 +6,12 @@
     "runtime-main.js": "./static/js/runtime-main.feb46ea7.js",
     "runtime-main.js.map": "./static/js/runtime-main.feb46ea7.js.map",
     "static/css/2.528d8e8f.chunk.css": "./static/css/2.528d8e8f.chunk.css",
-    "static/js/2.3133ebcb.chunk.js": "./static/js/2.3133ebcb.chunk.js",
-    "static/js/2.3133ebcb.chunk.js.map": "./static/js/2.3133ebcb.chunk.js.map",
+    "static/js/2.eb84623c.chunk.js": "./static/js/2.eb84623c.chunk.js",
+    "static/js/2.eb84623c.chunk.js.map": "./static/js/2.eb84623c.chunk.js.map",
     "index.html": "./index.html",
     "static/css/2.528d8e8f.chunk.css.map": "./static/css/2.528d8e8f.chunk.css.map",
     "static/css/main.43a3980e.chunk.css.map": "./static/css/main.43a3980e.chunk.css.map",
-    "static/js/2.3133ebcb.chunk.js.LICENSE.txt": "./static/js/2.3133ebcb.chunk.js.LICENSE.txt",
+    "static/js/2.eb84623c.chunk.js.LICENSE.txt": "./static/js/2.eb84623c.chunk.js.LICENSE.txt",
     "static/media/chat-icon.f032be1d.svg": "./static/media/chat-icon.f032be1d.svg",
     "static/media/damir-bosnjak.efcaca50.jpg": "./static/media/damir-bosnjak.efcaca50.jpg",
     "static/media/exclamation.56ace894.svg": "./static/media/exclamation.56ace894.svg",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.feb46ea7.js",
     "static/css/2.528d8e8f.chunk.css",
-    "static/js/2.3133ebcb.chunk.js",
+    "static/js/2.eb84623c.chunk.js",
     "static/css/main.43a3980e.chunk.css",
     "static/js/main.8984a1e9.chunk.js"
   ]
